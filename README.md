@@ -94,8 +94,6 @@ bootstrapにJQueryまで引っ張り出して、出来ることはこれだけ�
 
 以下の画像はプロ生ちゃん利用ガイドラインに基づく利用が必要ですのでご注意ください。
 
-hamatest 差し替えてね。
-
 * crlf_cutter\img\pronama_executed.png
 * crlf_cutter\img\pronama_normal.png
 * crlf_cutter\img\pronama_ok.png
